@@ -1,0 +1,26 @@
+===== STUDENT GRADE REPORT =====
+
+Total Students: 4
+
+Class Average per Subject:
+  Math: 81.25
+  Physics: 82.00
+  Chemistry: 82.50
+  Biology: 84.25
+
+Overall Class Average: 82.50
+
+Top 3 Students by Average:
+  Carol White (S003) - 91.25
+  Alice Johnson (S001) - 88.75
+  Bob Smith (S002) - 78.75
+
+Students Scoring Above 90 in Any Subject:
+  Alice Johnson (S001)
+  Carol White (S003)
+
+Subject-wise Highest and Lowest Scores:
+  Math - Highest: 92, Lowest: 70
+  Physics - Highest: 90, Lowest: 68
+  Chemistry - Highest: 95, Lowest: 72
+  Biology - Highest: 92, Lowest: 75
