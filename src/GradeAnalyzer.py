@@ -9,18 +9,18 @@ S002,Bob Smith,78,82,75,80
 S003,Carol White,92,88,95,90
 S004,David Brown,70,68,72,75
 Requirements:
-  Read the CSV file
-  Create a class Student to store each student's information
-  Calculate individual student averages
-  Generate a report showing: 
+o Read the CSV file
+o Create a class Student to store each student's information
+o Calculate individual student averages
+o Generate a report showing: 
 o Total number of students
 o Class average for each subject
 o Overall class average
 o Top 3 students by overall average
 o Students who scored above 90 in any subject
 o Subject-wise highest and lowest scores
-  Handle file not found exceptions
-  Write formatted output to a text file
+o Handle file not found exceptions
+o Write formatted output to a text file
 """
 
 import csv
